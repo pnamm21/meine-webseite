@@ -18,7 +18,7 @@ export default {
 
 <style>
 .future-container {
-    background-color: #e3f2fd;
+    background-color: #f9f4e8;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

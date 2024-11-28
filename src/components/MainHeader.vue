@@ -21,7 +21,7 @@ export default {
 
 <style scoped>
 .main-header {
-  background-color: #bbbbbb;
+  background-color: #f4f4f4;
   color: rgb(255, 255, 255);
   padding: 20px;
   text-align: center;

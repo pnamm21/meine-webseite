@@ -1,6 +1,6 @@
 <template>
+  <MainHeader />
   <div id="app" class="container">
-    <MainHeader />
     <div class="content">
       <ProfileFoto />
       <MySelf />
@@ -13,7 +13,12 @@
       <Ausbildungsstand />
       <FuturePlans />
     </div>
+    <div class="modules-container">
+      <Technologie />
+      <ProjektTracking />
+    </div>
   </div>
+  <SocialMedia />
 </template>
 
 <script>
@@ -24,6 +29,9 @@ import MySelf from "./components/MySelf.vue";
 import MyTasks from "./components/MyTasks.vue";
 import ProfileFoto from "./components/ProfileFoto.vue";
 import Topfact6Module from "./components/topfact6Module.vue";
+import Technologie from "./components/Technologie.vue";
+import ProjektTracking from "./components/ProjektTracking.vue";
+import SocialMedia from "./components/SocialMedia.vue";
 
 export default {
   name: "App",
@@ -35,6 +43,9 @@ export default {
     MyTasks,
     Ausbildungsstand,
     FuturePlans,
+    Technologie,
+    ProjektTracking,
+    SocialMedia
   },
 };
 </script>

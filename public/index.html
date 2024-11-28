@@ -1,11 +1,60 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Personal Website</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 </head>
 <body>
-  <div id="app">
+  <div id="app"></div>
 
-  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3.2.13/dist/vue.global.js"></script>
+
+  <script>
+    const app = Vue.createApp({
+      data() {
+        return {
+          message: "Welcome to my personal website!"
+        };
+      },
+      template: `
+        <div>
+          <h1>{{ message }}</h1>
+          <social-media></social-media>
+        </div>
+      `,
+      components: {
+        "social-media": {
+          template: `
+            <div class="contact-container">
+              <h2>Kontaktieren Sie mich</h2>
+              <p>Sie können mich über folgende Plattformen erreichen:</p>
+              <ul>
+                <li>
+                  <a href="https://www.linkedin.com/in/deinprofil" target="_blank">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                  </a>
+                </li>
+                <li>
+                  <a href="https://github.com/pnamm21/meine-webseite" target="_blank">
+                    <i class="fab fa-github"></i> GitHub
+                  </a>
+                </li>
+                <li>
+                  <a href="mailto:ffam5004@gmail.com">
+                    <i class="fas fa-envelope"></i> E-Mail
+                  </a>
+                </li>
+              </ul>
+            </div>
+          `
+        }
+      }
+    });
+
+    app.mount("#app");
+  </script>
+
 </body>
 </html>
