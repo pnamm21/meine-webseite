@@ -62,6 +62,12 @@
                     <div class="progress" style="width: 50%;"></div>
                 </div>
             </li>
+            <li>
+                <span>Version Control</span>
+                <div class="progress-bar">
+                    <div class="progress" style="width: 100%;"></div>
+                </div>
+            </li>
         </ul>
     </div>
 </template>
