@@ -16,7 +16,7 @@ Die folgenden Programmiersprachen und Technologien wurden verwendet:
 - **Font Awesome**: Für Social Media Icons und andere Symbole.
 - **Babel**: JavaScript-Transpiler, um moderne JavaScript-Features zu unterstützen.
 
-![Technologiebild]([<img width="399" alt="image" src="https://github.com/user-attachments/assets/01762c56-5e86-457b-8700-d5f77c92954a">](https://teams.microsoft.com/l/message/48:notes/1732878291598?context=%7B%22contextType%22%3A%22chat%22%7D))  
+![Technologiebild]([<img width="500" alt="image" src="https://github.com/user-attachments/assets/01762c56-5e86-457b-8700-d5f77c92954a">](https://teams.microsoft.com/l/message/48:notes/1732878291598?context=%7B%22contextType%22%3A%22chat%22%7D))  
 
 ## Features
 
