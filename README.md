@@ -5,14 +5,16 @@ Dies ist mein persönliches Web-Projekt, das eine einfache und benutzerfreundlic
 ![Projektbild](https://via.placeholder.com/500x300)  
 *Platzhalterbild: Füge ein Bild deines Projekts hier hinzu.*
 
-## Technologien
+## Programmiersprachen und Technologien
 
-Die folgenden Technologien wurden verwendet:
+Die folgenden Programmiersprachen und Technologien wurden verwendet:
 
+- **HTML**: Struktur der Webseite.
+- **CSS**: Gestaltung der Webseite (mit TailwindCSS als Framework).
+- **JavaScript**: Interaktive Logik und Dynamik der Webseite.
 - **Vue.js**: Ein progressives JavaScript-Framework für den Aufbau von Benutzeroberflächen.
 - **TailwindCSS**: Ein Utility-first CSS-Framework für schnellere und benutzerdefinierte Gestaltung.
 - **Font Awesome**: Für Social Media Icons und andere Symbole.
-- **Vue Router**: Für das Routing in der Single-Page-Anwendung (SPA).
 - **Babel**: JavaScript-Transpiler, um moderne JavaScript-Features zu unterstützen.
 
 ![Technologiebild](https://via.placeholder.com/500x300)  
