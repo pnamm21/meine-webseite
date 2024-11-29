@@ -3,7 +3,6 @@
 Dies ist mein persönliches Web-Projekt, das eine einfache und benutzerfreundliche Plattform bietet, um meine Projekte, Aufgaben und Zukunftspläne zu präsentieren. Die Webseite ist mit Vue.js entwickelt und verwendet moderne Webtechnologien wie TailwindCSS, Font Awesome und mehr.
 
 ![Projektbild](https://via.placeholder.com/500x300)  
-*Platzhalterbild: Füge ein Bild deines Projekts hier hinzu.*
 
 ## Programmiersprachen und Technologien
 
@@ -18,7 +17,6 @@ Die folgenden Programmiersprachen und Technologien wurden verwendet:
 - **Babel**: JavaScript-Transpiler, um moderne JavaScript-Features zu unterstützen.
 
 ![Technologiebild](https://via.placeholder.com/500x300)  
-*Platzhalterbild: Füge ein Bild hinzu, das die verwendeten Technologien zeigt.*
 
 ## Features
 
